@@ -1,0 +1,4392 @@
+[
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want a bmw x6 convertible"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "Tell me about best car in the world"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I would like to like bmw"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "i want a bmw x5 black with 4 door and 3 cylinders"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I would like a 3 cylinder bmw"
+	},
+	{
+		"count": 15,
+		"intent": "Search",
+		"sentence": "hello"
+	},
+	{
+		"count": 9,
+		"intent": "Search",
+		"sentence": "i want a bmw x5"
+	},
+	{
+		"count": 3,
+		"intent": "Search",
+		"sentence": "bmw x5"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "bmw x5 and"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "toyota x5 and corrola"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "toyota x5 and car"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "toyota x5 and car hello"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "car"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "hi"
+	},
+	{
+		"count": 4,
+		"intent": "Search",
+		"sentence": "i want a car"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "I want to buy a car BMW X 5"
+	},
+	{
+		"count": 3,
+		"intent": "Search",
+		"sentence": "I want to buy BMW X 5"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want to buy a BMW X 5"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want to be MWX 5 black"
+	},
+	{
+		"count": 4,
+		"intent": "Search",
+		"sentence": "BMW X 5 black"
+	},
+	{
+		"count": 4,
+		"intent": "Search",
+		"sentence": "I want a bmw x3 now"
+	},
+	{
+		"count": 47,
+		"intent": "Search",
+		"sentence": "BMW X 5"
+	},
+	{
+		"count": 3,
+		"intent": "Search",
+		"sentence": "I want a gle benz with 2 doors"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "BMW X 5 o'clock"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "BMW X 5 block"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "BMW X 5 plus"
+	},
+	{
+		"count": 3,
+		"intent": "Search",
+		"sentence": "BMW X"
+	},
+	{
+		"count": 5,
+		"intent": "Search",
+		"sentence": "i want a bmw and x5"
+	},
+	{
+		"count": 14,
+		"intent": "Search",
+		"sentence": "bmw"
+	},
+	{
+		"count": 7,
+		"intent": "Search",
+		"sentence": "I want to BMW X 5 car"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want to BMW X 5 black cock"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I wantPM.com"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want to BMW car"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want to be able double X 5 car"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want to be able to fix 5 car"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want to be able to take 5 car"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want to be replaced with car"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "honda.com"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want to be MW car"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want to be in the car"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "i want a bmw and x5 car"
+	},
+	{
+		"count": 32,
+		"intent": "Search",
+		"sentence": "undefined"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want to remember lyrics by the car"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want to meet me at 5"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want to be about 5 cars"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want to buy a BMW X car"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "who MWX 5"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "william WX 5 car"
+	},
+	{
+		"count": 87,
+		"intent": "Search",
+		"sentence": "BMW X 5 car"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "when it's 5 car"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "BMW X 5 black car"
+	},
+	{
+		"count": 3,
+		"intent": "Search",
+		"sentence": "i want a bmw and x5 black car"
+	},
+	{
+		"count": 7,
+		"intent": "Search",
+		"sentence": "I want a bmw"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "I want BMW"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want BMW X3"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I'm done next time"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "MWX 5 car"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "BMW X 5 black girl"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "BMWX.com"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "will not be like 5 o'clock car"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "WX 5"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "MW car"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "BMW car"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "bmw car"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "BMW X 5 black cock"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "hiQ.com"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "corolla"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "BMW black"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want X 6 BMW"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want to X 5 BMW"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "BMWX 5 car"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "give me like 5 cars"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "do another X 5 car"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "thank you"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "akhira"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "BMW X 6 car"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "my phone is in my bag"
+	},
+	{
+		"count": 34,
+		"intent": "Search",
+		"sentence": "mercedes benz"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "expired car"
+	},
+	{
+		"count": 108,
+		"intent": "Search",
+		"sentence": "BMW"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "ikura"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "acura"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "tomorrow"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "kamado"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "spell relate"
+	},
+	{
+		"count": 6,
+		"intent": "Search",
+		"sentence": "chevrolet"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "william WX 5"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "my face when"
+	},
+	{
+		"count": 5,
+		"intent": "Search",
+		"sentence": "I want a bmw x3"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "bmw x3"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "BMW X3"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "what is ben"
+	},
+	{
+		"count": 3,
+		"intent": "Search",
+		"sentence": "BMW X 3"
+	},
+	{
+		"count": 6,
+		"intent": "Search",
+		"sentence": "BMW x3"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "BMW x3 ."
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "ciara"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "acula"
+	},
+	{
+		"count": 3,
+		"intent": "Search",
+		"sentence": ":)"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "camaro"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "colorado"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "who is it"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "cortana"
+	},
+	{
+		"count": 3,
+		"intent": "Search",
+		"sentence": "really"
+	},
+	{
+		"count": 4,
+		"intent": "Search",
+		"sentence": "MW"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "holy"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "so late"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I will it"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "mustard is prince"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "mlib"
+	},
+	{
+		"count": 5,
+		"intent": "Search",
+		"sentence": "malibu"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "will it"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "evolet"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "MW convertible"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "BMW convertible"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "order BMW"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "4 door BMW"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "mercedes benz convertible"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "MG"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "women are you"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "CVS"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "maybach"
+	},
+	{
+		"count": 42,
+		"intent": "Search",
+		"sentence": "X 5"
+	},
+	{
+		"count": 3,
+		"intent": "Search",
+		"sentence": "william W"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "what is prince"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "convertible"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "BMW oh"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "i want a bmw"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "i want a bmw x5 convertible"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "you know if I can do I meant"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "convertible mercedes benz"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "mercedes benz 4 door"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "show will it"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "78"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "showing it"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "BM"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "what models do you have"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "what models do you have "
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I need a big and beautiful car"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "what do you have as a special offer"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I went to office carefully"
+	},
+	{
+		"count": 3,
+		"intent": "Search",
+		"sentence": "I went to office carefully and nice"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "4 doors"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "someone go to somewhere"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "someone go to some where"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "someone play with someone"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "someone play with someone nice"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "someone play with nice people"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "what is this car MPG in city"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "what is this car MPG\"s in city"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "what is this car MPG's in city"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "mpg in city"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "color of car"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "color of bady and inside"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "color of bady and interiror"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "the color of bady and inside"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "the color of body and inside"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "how many cylinders does it have"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "many cylinders"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "yeah"
+	},
+	{
+		"count": 5,
+		"intent": "Search",
+		"sentence": "how many cylinder it has"
+	},
+	{
+		"count": 7,
+		"intent": "Search",
+		"sentence": "how big is its engine"
+	},
+	{
+		"count": 3,
+		"intent": "Search",
+		"sentence": "what is the engine size"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "how much is this car"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "what is the size of its engine"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "how many doors it has"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "how many doors does it have"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "how much is the price"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "how much is it"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "how much iprice"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "how much price"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "I want a car with 2000 dollars price"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "i want to buy com"
+	},
+	{
+		"count": 5,
+		"intent": "Question",
+		"sentence": "tell me about its engine size"
+	},
+	{
+		"count": 1,
+		"intent": "Question",
+		"sentence": "what is its fuel economy"
+	},
+	{
+		"count": 2,
+		"intent": "Question",
+		"sentence": "how is its fuel consumption"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want to buy a mercedes benz dealers 450"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "who is lindas car"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "what is linda car"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "pizzaland a car"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "please sing under car"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "priestland a car"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "please lend a car"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "3 cylinder car"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "will never"
+	},
+	{
+		"count": 4,
+		"intent": "Search",
+		"sentence": "explain"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "xbox live"
+	},
+	{
+		"count": 3,
+		"intent": "Search",
+		"sentence": "x 5"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "do you"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "do you know"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want a black car"
+	},
+	{
+		"count": 4,
+		"intent": "Search",
+		"sentence": "I want a black BMW"
+	},
+	{
+		"count": 6,
+		"intent": "Search",
+		"sentence": "I want a black BMW x3"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "2 doors bmw"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "2 doors benz"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "damn double"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "how do I have until it's 5 light"
+	},
+	{
+		"count": 1,
+		"intent": "Question",
+		"sentence": "I want a black bmw"
+	},
+	{
+		"count": 1,
+		"intent": "Open cart",
+		"sentence": "my cart"
+	},
+	{
+		"count": 2,
+		"intent": "Question",
+		"sentence": "what color is that car"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "bmw 1 cylinder"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "BMW SUV"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "xbox"
+	},
+	{
+		"count": 1,
+		"intent": "Language-error",
+		"sentence": "宝马"
+	},
+	{
+		"count": 1,
+		"intent": "Language-error",
+		"sentence": "你也没"
+	},
+	{
+		"count": 1,
+		"intent": "Language-error",
+		"sentence": "免得表"
+	},
+	{
+		"count": 1,
+		"intent": "Language-error",
+		"sentence": "免得逼"
+	},
+	{
+		"count": 1,
+		"intent": "Language-error",
+		"sentence": "五一mm六"
+	},
+	{
+		"count": 1,
+		"intent": "Language-error",
+		"sentence": "免得名"
+	},
+	{
+		"count": 1,
+		"intent": "Language-error",
+		"sentence": "灭门六"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "query"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "select first one"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "I want a bmw 4 doors"
+	},
+	{
+		"count": 9,
+		"intent": "Lang-Error",
+		"sentence": ""
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "mercedes benz gls 450"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "mercedes benz gls suv"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "would love you"
+	},
+	{
+		"count": 4,
+		"intent": "Search",
+		"sentence": "i want a bmw x5 car"
+	},
+	{
+		"count": 3,
+		"intent": "Search",
+		"sentence": "I need a BMW"
+	},
+	{
+		"count": 27,
+		"intent": "Command",
+		"sentence": "check out"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "I need a blue car"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "I need a blue bmw"
+	},
+	{
+		"count": 3,
+		"intent": "Search",
+		"sentence": "I need diper"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "I want a diaper for my baby"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "I want a diper for my baby"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want dipers for my baby"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want some dipers for my baby"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "dipers for my baby"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "diapers for my baby"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "show me some baby furmula"
+	},
+	{
+		"count": 4,
+		"intent": "Search",
+		"sentence": "show me some baby formula"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "what is the baby age for this product?"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "I want a 2 pound formula?"
+	},
+	{
+		"count": 11,
+		"intent": "Search",
+		"sentence": "baby wipes"
+	},
+	{
+		"count": 2,
+		"intent": "Greeting",
+		"sentence": "what wipes do you have?"
+	},
+	{
+		"count": 3,
+		"intent": "Greeting",
+		"sentence": "what kind of wipes do you have?"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "what kind of baby wipes do you have?"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "hey?"
+	},
+	{
+		"count": 2,
+		"intent": "Command",
+		"sentence": "show my cart"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "what is its price?"
+	},
+	{
+		"count": 2,
+		"intent": "Greeting",
+		"sentence": "how much is that?"
+	},
+	{
+		"count": 2,
+		"intent": "Question",
+		"sentence": "how much is that product?"
+	},
+	{
+		"count": 1,
+		"intent": "Question",
+		"sentence": "how much is the price of that product?"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "show me some diaper for a 2 year old baby?"
+	},
+	{
+		"count": 2,
+		"intent": "Question",
+		"sentence": "what is the price of these wipes?"
+	},
+	{
+		"count": 3,
+		"intent": "Question",
+		"sentence": "how much is that baby diaper?"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "how much can does that baby diaper have?"
+	},
+	{
+		"count": 1,
+		"intent": "Question",
+		"sentence": "how much diaper does that baby diaper have?"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I am looking for a baby formula?"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "what I am looking for is a baby formula"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "big battle"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "how could I help you"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "hey you"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "hey you!!"
+	},
+	{
+		"count": 2,
+		"intent": "Greeting",
+		"sentence": "hey you are you there"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "why sould I talk with you?"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "whose product is that?"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I need diapers and baby milk "
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "show me some powdered food"
+	},
+	{
+		"count": 61,
+		"intent": "Search",
+		"sentence": "baby formula"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "\"BMW\""
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "show me bmw"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want a baby wipes"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "\"baby wipes\""
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "\"baby formula\""
+	},
+	{
+		"count": 3,
+		"intent": "Greeting",
+		"sentence": "hello hi how are you"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "\"how are you formula\""
+	},
+	{
+		"count": 73,
+		"intent": "Greeting",
+		"sentence": "hello how are you"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "I want to buy baby formula"
+	},
+	{
+		"count": 6,
+		"intent": "Greeting",
+		"sentence": "hi how are you"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "baby wipe"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "infant formula powder"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "baby for me"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "\"infant formula\""
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "\"Infant Formula Powder\""
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "\"milk\""
+	},
+	{
+		"count": 58,
+		"intent": "Search",
+		"sentence": "milk"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "wipes"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "diapers"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "sensitive"
+	},
+	{
+		"count": 27,
+		"intent": "Search",
+		"sentence": "organic"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "huggin IK"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "\"organic\""
+	},
+	{
+		"count": 3,
+		"intent": "Greeting",
+		"sentence": "are ganek"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "show me this item"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "merrick"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I'm getting"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "I want to buy a baby milk"
+	},
+	{
+		"count": 4,
+		"intent": "Greeting",
+		"sentence": "how are you"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "what what's up"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want to buy a milk"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "\"my cart\""
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "\"show my cart\""
+	},
+	{
+		"count": 2,
+		"intent": "Question",
+		"sentence": "what is the price of mil"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "show me some baby products"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "show me milk"
+	},
+	{
+		"count": 75,
+		"intent": "Command",
+		"sentence": "add to cart"
+	},
+	{
+		"count": 2,
+		"intent": "Command",
+		"sentence": "cart"
+	},
+	{
+		"count": 1,
+		"intent": "Command",
+		"sentence": "checkout"
+	},
+	{
+		"count": 1,
+		"intent": "Command",
+		"sentence": "show cart"
+	},
+	{
+		"count": 3,
+		"intent": "Search",
+		"sentence": "add cart"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "show kart"
+	},
+	{
+		"count": 3,
+		"intent": "Search",
+		"sentence": "kart"
+	},
+	{
+		"count": 7,
+		"intent": "Search",
+		"sentence": "god"
+	},
+	{
+		"count": 4,
+		"intent": "Search",
+		"sentence": "card"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "caught"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "show me car"
+	},
+	{
+		"count": 3,
+		"intent": "Search",
+		"sentence": "show card"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "show me cat"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "show skype"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "go kart"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "CART card"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "music"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "type"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "skype"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "shopping cart"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "do you have baby wipes"
+	},
+	{
+		"count": 39,
+		"intent": "Command",
+		"sentence": "restart"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "do you have any product for 2 year old baby"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I need baby diaper"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "hello siri how are you"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "do you have diapers"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "could I get a struggler"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "could I get a little extra dollars"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I'm looking for products for 2 years old baby"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I need diapers"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "show me my car"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "give me heart"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "show me some wipes"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "show me baby milk"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "could I get GM O in france"
+	},
+	{
+		"count": 4,
+		"intent": "Search",
+		"sentence": "I want baby milk"
+	},
+	{
+		"count": 2,
+		"intent": "Greeting",
+		"sentence": "it should be organic"
+	},
+	{
+		"count": 11,
+		"intent": "Search",
+		"sentence": "show me the organic"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "at the card"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "add to shopping cart"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "nick"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "milk powder"
+	},
+	{
+		"count": 51,
+		"intent": "Search",
+		"sentence": "buy milk"
+	},
+	{
+		"count": 2,
+		"intent": "Greeting",
+		"sentence": "organic milk"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "are you gonna make milk"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "shopping card"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "maybe by"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "organic powder"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "find any money"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "call again"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "show god"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "activcard"
+	},
+	{
+		"count": 8,
+		"intent": "Greeting",
+		"sentence": "take out"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I need organic milk"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "buy organic milk"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want to buy beer"
+	},
+	{
+		"count": 12,
+		"intent": "Search",
+		"sentence": "I want to buy milk"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I need organic one"
+	},
+	{
+		"count": 3,
+		"intent": "Search",
+		"sentence": "buy organic"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "show me organic milk"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I would like to buy organic milk"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "reset"
+	},
+	{
+		"count": 5,
+		"intent": "Search",
+		"sentence": "I'm looking for baby wipes"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I'm looking for diaper"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want to milk"
+	},
+	{
+		"count": 4,
+		"intent": "Search",
+		"sentence": "I want to buy baby milk"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want to buy diapers"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "show me some bud diapers"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "show me some baby"
+	},
+	{
+		"count": 5,
+		"intent": "Search",
+		"sentence": "I'm looking for baby milk"
+	},
+	{
+		"count": 6,
+		"intent": "Search",
+		"sentence": "I'm looking for organic"
+	},
+	{
+		"count": 4,
+		"intent": "Greeting",
+		"sentence": "at court"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "shopping"
+	},
+	{
+		"count": 3,
+		"intent": "Search",
+		"sentence": "I want to buy wine"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I have a party and I want to buy wine"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I'm looking for baby"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "show me organica"
+	},
+	{
+		"count": 4,
+		"intent": "Search",
+		"sentence": "show me organic"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I'm looking for diapers for my baby"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "show me size one"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "organic well"
+	},
+	{
+		"count": 10,
+		"intent": "Search",
+		"sentence": "I have a party tonight"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "I had a party"
+	},
+	{
+		"count": 5,
+		"intent": "Greeting",
+		"sentence": "I have a party today"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "I want baby"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "I want to buy baby"
+	},
+	{
+		"count": 7,
+		"intent": "Search",
+		"sentence": "I have a party"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I'm looking for baby boy"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "reassort"
+	},
+	{
+		"count": 3,
+		"intent": "Search",
+		"sentence": "show me some baby diapers"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "show me some baby milk"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want to buy some diapers for my baby"
+	},
+	{
+		"count": 43,
+		"intent": "Search",
+		"sentence": "I have a party tomorrow"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I have a party to my"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "show me some product import"
+	},
+	{
+		"count": 12,
+		"intent": "Greeting",
+		"sentence": "hello how are"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I have a baby"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want some baby boy"
+	},
+	{
+		"count": 1,
+		"intent": "Question",
+		"sentence": "how much is that one"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want diapers for my way"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "little snugglers"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I'm looking for organica"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "show me in fact products"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "in santa baby product"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "infant baby products"
+	},
+	{
+		"count": 2,
+		"intent": "Greeting",
+		"sentence": "infant"
+	},
+	{
+		"count": 6,
+		"intent": "Search",
+		"sentence": "infant formula"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "what's up set"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want wine"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want some milk"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I'm looking for baby brother"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "baby music"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "could I have sensitive on"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "could I have organic"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "resoft"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want some wine"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "call kenny"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "my music"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "could I get some wine"
+	},
+	{
+		"count": 5,
+		"intent": "Search",
+		"sentence": "I'm looking for red wine"
+	},
+	{
+		"count": 2,
+		"intent": "Greeting",
+		"sentence": "hello how"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want to say red wine"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "I forgot"
+	},
+	{
+		"count": 3,
+		"intent": "Search",
+		"sentence": "I want to have a party"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want to wind"
+	},
+	{
+		"count": 4,
+		"intent": "Search",
+		"sentence": "I want red wine"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want beef"
+	},
+	{
+		"count": 3,
+		"intent": "Search",
+		"sentence": "red wine"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "mdlot"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "donut hole"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "duenos all"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "doughnut song"
+	},
+	{
+		"count": 2,
+		"intent": "Greeting",
+		"sentence": "salman creek"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "salman khan"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "give me california wine"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want persian wine"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "give me something"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want to party"
+	},
+	{
+		"count": 3,
+		"intent": "Search",
+		"sentence": "I want some champagne"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want something"
+	},
+	{
+		"count": 2,
+		"intent": "Greeting",
+		"sentence": "champagne"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "hello I have a party today"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "get me red wine"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "good with beef"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "beef"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I have any"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "140"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I have 42"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I have party tonight"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want some shopping"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want to have party tonight"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "buy that wine"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "camping"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "shampain"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want some white wine"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "we have shooting"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "happy happy happy happy happy happy shooting"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "we have shrimp"
+	},
+	{
+		"count": 4,
+		"intent": "Search",
+		"sentence": "at the court"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "superkart"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "after court"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want some big"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want some baby"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want some diapers"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want something to be proud"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "show me some"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "baby diapers"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "tell me something"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "broncos"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "hunters"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "reinstall"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "baby baby"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want diapers"
+	},
+	{
+		"count": 33,
+		"intent": "Search",
+		"sentence": "I'm looking for baby formula"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "do you want to serve wine"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want to read mind"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want to serve wine"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "show me my cock"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want to buy some baby milk"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "<profanity>fuck</profanity> you"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "bye"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "show me the organica"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want to buy something for my baby"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want baby music"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "I'm looking for baby music"
+	},
+	{
+		"count": 2,
+		"intent": "Greeting",
+		"sentence": "add to my shopping cart"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "show my car"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "shocker"
+	},
+	{
+		"count": 21,
+		"intent": "Search",
+		"sentence": "I also have a party tomorrow"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want to say wines"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want to serve champagne"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want to buy some red wine"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I also the party"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "I want to buy some wine"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "show me red wine"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want to buy some baby wipes"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "also I have a party tomorrow"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want to buy a PowerPoint"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "you're going to have wine and champagne"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "we are going to have wine and champagne"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "I'm going to serve wine"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want to buy champagne"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "I'm going to serve wine and champagne"
+	},
+	{
+		"count": 4,
+		"intent": "Search",
+		"sentence": "I want to buy red wine"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "don't buy baby milk"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want to buy baby music"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "show me the organic phone"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I'm <profanity>horny</profanity>"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "I'm looking for red light"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want white wine"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "show me 20 packs"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "show me non GM oh"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "o'clock"
+	},
+	{
+		"count": 3,
+		"intent": "Search",
+		"sentence": "sucking cock"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "I'm going to save some wine and champagne"
+	},
+	{
+		"count": 8,
+		"intent": "Search",
+		"sentence": "I'm looking for wine"
+	},
+	{
+		"count": 3,
+		"intent": "Search",
+		"sentence": "I'm looking for white light"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "show me the forest glen"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "we have pork and beef"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I'm looking for parking lot"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "show me some baby wipes"
+	},
+	{
+		"count": 5,
+		"intent": "Search",
+		"sentence": "recent"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "show me some baby music"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I'm looking for 90 in mobile"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I'm looking for non GMO want"
+	},
+	{
+		"count": 3,
+		"intent": "Command",
+		"sentence": "add to my cart"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "I'm looking for red wine for my part"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "show me some wine"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "I want like flight"
+	},
+	{
+		"count": 24,
+		"intent": "Search",
+		"sentence": "I'm looking for white wine"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want to buy red lines"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "I had a party tonight"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I'm looking for flight line"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "I'm going to serve white wine"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "show me some white lights"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "show me some white lines"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "picture"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "I want to serve white wine"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I'm looking for one point"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "how to call"
+	},
+	{
+		"count": 2,
+		"intent": "Greeting",
+		"sentence": "hello baby how are you"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "please show me organic"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "auto parts"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "I also had a party tonight"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "I'm going to serve pork and beef with wine"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want to buy baby brother"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "help me buy milk"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "bioorganic one"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "buy organic one"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "applecart"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "hey I also have a party"
+	},
+	{
+		"count": 4,
+		"intent": "Greeting",
+		"sentence": "I also had a party tomorrow"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want to buy some wine for my party"
+	},
+	{
+		"count": 3,
+		"intent": "Search",
+		"sentence": "I'm looking for white line"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want to good wine with pork"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "show me the part store"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want to buy vikrit"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I would like to buy bright light"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want to buy vines"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I like to buy vines"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I'd like to buy line"
+	},
+	{
+		"count": 3,
+		"intent": "Search",
+		"sentence": "I would like to buy wine"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "show me light lunch"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I'd like to buy some wine"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "could you please show me the red lines"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "show me for stealing"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I like forest glen line"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "buy me baby formula"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "show me cocks"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "show me shopping cart"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "start"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "show me my shopping cart"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "show my shopping park"
+	},
+	{
+		"count": 13,
+		"intent": "Command",
+		"sentence": "show my shopping cart"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "how do you stop"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I will have a party tonight"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "I want to buy wine's"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want to buy lights"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "I like glenforest"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I like killing forest"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I like to buy red wine"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I like forest bank"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I look like to buy the bike line for that"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I like to buy white wine for that"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I like forrest line"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I like forrest mind"
+	},
+	{
+		"count": 14,
+		"intent": "Search",
+		"sentence": "buy wine"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I like vanilla fine"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I would like to save vines"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "yes start"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "I want to buy wines"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I like to buy wine"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "buy wines"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I like to buy white wine"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I like vanilla cake"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "buy me baby product"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "reset the category"
+	},
+	{
+		"count": 5,
+		"intent": "Search",
+		"sentence": "buy baby formula"
+	},
+	{
+		"count": 3,
+		"intent": "Search",
+		"sentence": "I also the party tomorrow"
+	},
+	{
+		"count": 3,
+		"intent": "Search",
+		"sentence": "I would like to buy vines for that"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "I also have a party today"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want to buy wine store"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I'm looking for lawn illinois"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I would like to buy vanilla"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "readsoft"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I need voice right"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "how to buy baby formula"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I like money"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I like vanilla taste"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I also that party tomorrow"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I'd like to buy some wine for"
+	},
+	{
+		"count": 6,
+		"intent": "Search",
+		"sentence": "I like vanilla flavor"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I would like to buy wine florida"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I like money location"
+	},
+	{
+		"count": 6,
+		"intent": "Search",
+		"sentence": "I would like to buy wine for that"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I would like to buy white wine illahe wine"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I like to serve wine in my car"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I would like to have white wine"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "my gift like when you look later"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "my gifts like vanilla flavor"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want to buy the florida"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I wanna buy lunch for today"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "I would like to buy vine florida"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I like white wine"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "my friend lights on you look later"
+	},
+	{
+		"count": 3,
+		"intent": "Greeting",
+		"sentence": "my friend likes vanilla flavor"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "tell me a joke"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I will I have a party tonight"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I'd like to buy wine for that"
+	},
+	{
+		"count": 2,
+		"intent": "Greeting",
+		"sentence": "I had a party tomorrow"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I had to party tomorrow"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I may have a party tomorrow"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "I want to buy wine for that"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I'd like to wine"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I would like to buy a boyfriend"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "I would like to buy white wine"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "I'm going to set reminder"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "by the way"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "buy red wine"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I also have a small party"
+	},
+	{
+		"count": 3,
+		"intent": "Search",
+		"sentence": "I'm looking for wine for that"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I'd like to buy white wine"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I have a small party tomorrow"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I'd like to buy blinds for"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I have a small party"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I would like to buy mine florida"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "my gift like one you love later"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "show me one last favor"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "show me banila flavor"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "also the party tomorrow"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I'm looking for wine florida"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I also looking for white wine"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want"
+	},
+	{
+		"count": 3,
+		"intent": "Search",
+		"sentence": "my wife"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "buy rice"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "buy red wines"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "add to shopping product"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I also have the party tomorrow"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "virens"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I'm looking for wine for"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "tell me more about you"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "my gas lights on elaphe later"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "add to shopping cock"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "a shopping cart"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "show shopping cart"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I also have that party tomorrow"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I'm looking for right right"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "what"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I'm here to help you find the best products"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "I'm looking for tobacco flavor"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I look like to buy vine"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I would like to buy vanilla flavor"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I would like to buy some wine for that"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "could I get the bike never left"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "marriott"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "miracle note"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I'm looking for non GMO formula"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "show me non GMO"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "how to clock"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "organic one"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "buy wine's"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "thanks"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "that's it"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I'm looking for baby products"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I'm looking for baby prada"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "show me sensitive nanji mobile"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I'm looking for buying wine"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "my friends like tobacco flavor wine"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I'm looking to buy wine"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "show me white wines"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want baby formula"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "hello hello"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I'm receiving distance"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "my friends like vanilla flavor"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "hello how are you how are you doing"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "hello how are you doing"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "can you show me organic lawn"
+	},
+	{
+		"count": 1,
+		"intent": "Command",
+		"sentence": "please add to shopping cart"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "could you show me some white wine"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "my guest like vanilla flavor"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I have a wine tasting party tomorrow"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "could you show me white wine"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "my guess like vanilla flavor"
+	},
+	{
+		"count": 2,
+		"intent": "Greeting",
+		"sentence": "hello how could I use your service"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "how could I use your prayer service"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "how could I use your service"
+	},
+	{
+		"count": 2,
+		"intent": "Greeting",
+		"sentence": "what's up"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "how are you doing"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "I'm looking for wines"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "I had a wine tasting party"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "could you please show me white wines"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "my friends like vanilla forever"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "my friends like my nila player"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "no thank you"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "could you show me organic phone"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I don't want to talk about that"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "it should be white wine"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "also it should be oncilla flavor"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "it should be oncilla flavor"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "would you show me organic lawn"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "show me vanilla flavor"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I have a wine tasting party"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want to block a flavor wine"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "show me to boca flavor"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "show me to bocho flavor"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "vanilla flavored wine"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "what is your name"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I'm looking for once"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I need blinds"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "it's the wine tasting"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "could you show me organic lawn"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "my baby is dead"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "my baby likes organica"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "I will have a party tomorrow"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I'm looking for sweet wine"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "I would have a party tomorrow"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "wine tasting party"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I'm looking for sweet one"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I should be red"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "could you show me sweet one"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I need some wine"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "show me like fun"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "show me sweet wants"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "do you have to buckle flavor"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "do you have melon flavor"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "you should be white wine"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "it should be sweet"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "do you have sweet taste"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "reese"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "I'm going to throw a party tomorrow"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "could you show me funny lovely"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "please show me funny love live"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I'm looking for babies"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "do not soul"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "sweet bread"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "why are they doing"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "by little wayne"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "size 5"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "show me baby formula"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "silvain tasting party"
+	},
+	{
+		"count": 1,
+		"intent": "Question",
+		"sentence": "what is the wine tasting party"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I have pork and beef"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I don't like sweet flavor"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "violet doing"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I have a body tonight"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "shokat"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "show my cat"
+	},
+	{
+		"count": 1,
+		"intent": "Command",
+		"sentence": "show my card"
+	},
+	{
+		"count": 3,
+		"intent": "Search",
+		"sentence": "apple cart"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "add card"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "define miller"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "mila"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "baby funny"
+	},
+	{
+		"count": 1,
+		"intent": "Question",
+		"sentence": "tell me about the TK"
+	},
+	{
+		"count": 1,
+		"intent": "Question",
+		"sentence": "tell me about it stays"
+	},
+	{
+		"count": 1,
+		"intent": "Question",
+		"sentence": "tell me about eats detail"
+	},
+	{
+		"count": 19,
+		"intent": "Command",
+		"sentence": "I like it"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "at the car"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "find baby formula"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "my baby like organic"
+	},
+	{
+		"count": 1,
+		"intent": "Question",
+		"sentence": "can you more about the kid"
+	},
+	{
+		"count": 4,
+		"intent": "Search",
+		"sentence": "my baby likes organic"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "are you too my cock"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "show shopping"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "morning 4"
+	},
+	{
+		"count": 6,
+		"intent": "Question",
+		"sentence": "details"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "show me details"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "baby father"
+	},
+	{
+		"count": 2,
+		"intent": "Question",
+		"sentence": "tell me about details"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "mussart"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I'm looking for vine"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "show me like lights"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "mike lines"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I'm looking for white knight"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I also like vanilla flavor"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "show me later bye"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "red wines"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I need white line"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "it's a wine tasting party"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "my friends like"
+	},
+	{
+		"count": 1,
+		"intent": "Question",
+		"sentence": "tell me more about this weekend"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "show me the vennila flavor"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I'm looking for money to flip"
+	},
+	{
+		"count": 1,
+		"intent": "Question",
+		"sentence": "tell me about the city"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "we also have the party"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I also have a party tonight"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I like funny love forever"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "are you like vanilla flavor"
+	},
+	{
+		"count": 1,
+		"intent": "Question",
+		"sentence": "tell me about the city jail"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I'm working poor baby formula"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "I want to organic"
+	},
+	{
+		"count": 1,
+		"intent": "Question",
+		"sentence": "tell me about the C 2"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I also have party tomorrow"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I need wine"
+	},
+	{
+		"count": 1,
+		"intent": "Question",
+		"sentence": "tell me about the tail"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I wanted"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want to eat"
+	},
+	{
+		"count": 3,
+		"intent": "Greeting",
+		"sentence": "hello baby plus how are you"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "hi baby plus"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "hi baby plus how are you"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "show me non GM over"
+	},
+	{
+		"count": 2,
+		"intent": "Question",
+		"sentence": "tell me about that"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "reset wine tasting"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "should be quick shrimp"
+	},
+	{
+		"count": 1,
+		"intent": "Question",
+		"sentence": "tell me about it"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I love wine"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "account"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "my little wine"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "by vines"
+	},
+	{
+		"count": 2,
+		"intent": "Question",
+		"sentence": "tell me more about"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "I'm serving shrimp in my party"
+	},
+	{
+		"count": 3,
+		"intent": "Question",
+		"sentence": "tell me more about the first one"
+	},
+	{
+		"count": 1,
+		"intent": "Question",
+		"sentence": "tell me about first one detail"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I'm looking for natural care"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "I like"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I'm looking for non GMO"
+	},
+	{
+		"count": 1,
+		"intent": "Question",
+		"sentence": "tell me about the steve J"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I'm looking for panthers"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want pampers diapers"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want hampers product"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "pampers diaper"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "baby milk"
+	},
+	{
+		"count": 1,
+		"intent": "Question",
+		"sentence": "tell me about this teacher"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "add to call"
+	},
+	{
+		"count": 1,
+		"intent": "Question",
+		"sentence": "tell me more about that?"
+	},
+	{
+		"count": 2,
+		"intent": "Greeting",
+		"sentence": "hello how are you?"
+	},
+	{
+		"count": 2,
+		"intent": "Question",
+		"sentence": "tell me more about it"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "could you show me white wines"
+	},
+	{
+		"count": 1,
+		"intent": "Question",
+		"sentence": "tell me about the first one"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "also show me something good feet"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "my friends like funny the flavor"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I want it as well"
+	},
+	{
+		"count": 2,
+		"intent": "Command",
+		"sentence": "I like it as well"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "show my shopping"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "it's of wine tasting party"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "just reset"
+	},
+	{
+		"count": 1,
+		"intent": "Question",
+		"sentence": "tell me more about the details"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I'm looking for one"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "show me organic phone"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I wanna serve shrimp"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I'm serving shrimp"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I prefer vanilla flavor"
+	},
+	{
+		"count": 1,
+		"intent": "Question",
+		"sentence": "tell me about this product"
+	},
+	{
+		"count": 2,
+		"intent": "Search",
+		"sentence": "I prefer fruity flavor"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I'm having a wine party"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "I can't see any"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "in santa"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "how to car"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "is the wine tasting party"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "show me salmon creek"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "add it to my car"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "metro card"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "we have a party"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "I'm making shrimp"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "show me natural carol"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "show me all the product"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "ask google"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "add 22"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "add boo-boo card"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "add 2 items to cut"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "add 2 items to cart"
+	},
+	{
+		"count": 1,
+		"intent": "Search",
+		"sentence": "continue shopping"
+	},
+	{
+		"count": 1,
+		"intent": "Greeting",
+		"sentence": "hello how are you what's up"
+	}
+]

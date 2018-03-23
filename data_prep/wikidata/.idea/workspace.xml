@@ -1,0 +1,1073 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e8c16e4b-3991-455a-a6c5-a3da84b51edd" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="525">
+      <file leaf-file-name="semantic_learning02.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../Project.data.conversational_data_labling/06/semantic_learning02.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7938">
+              <caret line="677" column="40" lean-forward="false" selection-start-line="677" selection-start-column="35" selection-end-line="677" selection-end-column="40" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+                <element signature="e#7675#11824#0" expanded="false" />
+                <element signature="e#7709#7803#0" expanded="false" />
+                <element signature="e#7881#10167#0" expanded="false" />
+                <element signature="e#10204#10510#0" expanded="false" />
+                <element signature="e#10588#10782#0" expanded="false" />
+                <element signature="e#10816#10950#0" expanded="false" />
+                <element signature="e#10993#11317#0" expanded="false" />
+                <element signature="e#11372#11698#0" expanded="false" />
+                <element signature="e#11738#11824#0" expanded="false" />
+                <element signature="e#11854#21744#0" expanded="false" />
+                <element signature="e#21917#22220#0" expanded="false" />
+                <element signature="e#22268#23671#0" expanded="false" />
+                <element signature="e#23721#23822#0" expanded="false" />
+                <element signature="e#23848#25042#0" expanded="false" />
+                <element signature="e#25071#25096#0" expanded="false" />
+                <element signature="e#25129#25546#0" expanded="false" />
+                <element signature="e#25569#26061#0" expanded="false" />
+                <element signature="e#31370#34174#0" expanded="false" />
+                <element signature="e#34218#36284#0" expanded="false" />
+                <element signature="e#42371#42753#0" expanded="false" />
+                <element signature="e#42793#43104#0" expanded="false" />
+                <element signature="e#43152#43649#0" expanded="false" />
+                <element signature="e#43688#46254#0" expanded="false" />
+                <element signature="e#46296#47309#0" expanded="false" />
+                <element signature="e#47351#49036#0" expanded="false" />
+                <element signature="e#49076#51269#0" expanded="false" />
+                <element signature="e#51318#53476#0" expanded="false" />
+                <element signature="e#53509#54671#0" expanded="false" />
+                <element signature="e#54703#57158#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="import-wikidata-keys.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/import-wikidata-keys.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NLU-API.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../Project.Conversational/3.0/NLU-API.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="337">
+              <caret line="545" column="0" lean-forward="false" selection-start-line="545" selection-start-column="0" selection-end-line="545" selection-end-column="0" />
+              <folding>
+                <element signature="e#37#55#0" expanded="true" />
+                <element signature="e#1228#3137#0" expanded="false" />
+                <element signature="e#3244#4456#0" expanded="false" />
+                <element signature="e#4472#4931#0" expanded="false" />
+                <element signature="e#4982#5758#0" expanded="false" />
+                <element signature="e#6349#6421#0" expanded="false" />
+                <element signature="e#6455#6533#0" expanded="false" />
+                <element signature="e#8323#9366#0" expanded="false" />
+                <element signature="e#9423#10145#0" expanded="false" />
+                <element signature="e#10337#12726#0" expanded="false" />
+                <element signature="e#13952#16317#0" expanded="false" />
+                <element signature="e#16367#18453#0" expanded="false" />
+                <element signature="e#18502#18727#0" expanded="false" />
+                <element signature="e#18779#18961#0" expanded="false" />
+                <element signature="e#19011#19278#0" expanded="false" />
+                <element signature="e#19326#19517#0" expanded="false" />
+                <element signature="e#19566#19737#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="actionlist_modify.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../Project.Conversational/3.0/Long-term Memory/Procedural Memory/actionlist_modify.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="702">
+              <caret line="26" column="25" lean-forward="false" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Verb_list.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../Project.Conversational/3.0/Long-term Memory/Procedural Memory/Verb_list.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="204780" lean-forward="false" selection-start-line="0" selection-start-column="204780" selection-end-line="0" selection-end-column="204780" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Action_list.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../Project.Conversational/3.0/Long-term Memory/Procedural Memory/Action_list.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="192109" lean-forward="false" selection-start-line="0" selection-start-column="192098" selection-end-line="0" selection-end-column="192109" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Action.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../Project.Conversational/3.0/Long-term Memory/Procedural Memory/Action.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1269">
+              <caret line="367" column="0" lean-forward="false" selection-start-line="367" selection-start-column="0" selection-end-line="368" selection-end-column="0" />
+              <folding>
+                <element signature="e#264#1381#0" expanded="false" />
+                <element signature="e#582#1375#0" expanded="false" />
+                <element signature="e#1649#2302#0" expanded="false" />
+                <element signature="e#2310#2592#0" expanded="false" />
+                <element signature="e#2915#3196#0" expanded="false" />
+                <element signature="e#3206#3492#0" expanded="false" />
+                <element signature="e#3502#3861#0" expanded="false" />
+                <element signature="e#3871#4153#0" expanded="false" />
+                <element signature="e#4163#4513#0" expanded="false" />
+                <element signature="e#4523#4811#0" expanded="false" />
+                <element signature="e#4836#5116#0" expanded="false" />
+                <element signature="e#5135#7701#0" expanded="false" />
+                <element signature="e#7707#9137#0" expanded="false" />
+                <element signature="e#9143#11131#0" expanded="false" />
+                <element signature="e#11137#12448#0" expanded="false" />
+                <element signature="e#12723#13038#0" expanded="false" />
+                <element signature="e#13426#13776#0" expanded="false" />
+                <element signature="e#13786#14163#0" expanded="false" />
+                <element signature="e#14173#14527#0" expanded="false" />
+                <element signature="e#14537#14811#0" expanded="false" />
+                <element signature="e#15167#15491#0" expanded="false" />
+                <element signature="e#15503#15817#0" expanded="false" />
+                <element signature="e#15848#16143#0" expanded="false" />
+                <element signature="e#16153#16446#0" expanded="false" />
+                <element signature="e#16456#16755#0" expanded="false" />
+                <element signature="e#16780#17121#0" expanded="false" />
+                <element signature="e#17129#17404#0" expanded="false" />
+                <element signature="e#17412#17692#0" expanded="false" />
+                <element signature="e#17700#17934#0" expanded="false" />
+                <element signature="e#17942#18225#0" expanded="false" />
+                <element signature="e#18233#18578#0" expanded="false" />
+                <element signature="e#18586#18914#0" expanded="false" />
+                <element signature="e#18933#20331#0" expanded="false" />
+                <element signature="e#20937#21270#0" expanded="false" />
+                <element signature="e#21280#21587#0" expanded="false" />
+                <element signature="e#21597#21868#0" expanded="false" />
+                <element signature="e#21878#22210#0" expanded="false" />
+                <element signature="e#22235#22528#0" expanded="false" />
+                <element signature="e#22536#22800#0" expanded="false" />
+                <element signature="e#23126#23422#0" expanded="false" />
+                <element signature="e#23432#23789#0" expanded="false" />
+                <element signature="e#23799#24172#0" expanded="false" />
+                <element signature="e#24208#25095#0" expanded="false" />
+                <element signature="e#25101#25425#0" expanded="false" />
+                <element signature="e#25725#26004#0" expanded="false" />
+                <element signature="e#26012#26317#0" expanded="false" />
+                <element signature="e#26325#26590#0" expanded="false" />
+                <element signature="e#26598#26835#0" expanded="false" />
+                <element signature="e#26843#27135#0" expanded="false" />
+                <element signature="e#27143#27440#0" expanded="false" />
+                <element signature="e#27448#27765#0" expanded="false" />
+                <element signature="e#27773#28055#0" expanded="false" />
+                <element signature="e#28063#28350#0" expanded="false" />
+                <element signature="e#28688#28976#0" expanded="false" />
+                <element signature="e#28984#29228#0" expanded="false" />
+                <element signature="e#29236#29505#0" expanded="false" />
+                <element signature="e#29513#29809#0" expanded="false" />
+                <element signature="e#29817#30093#0" expanded="false" />
+                <element signature="e#31392#33463#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="schema_org.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../Project.Conversational/3.0/Long-term Memory/Procedural Memory/schema_org.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!block;n#datatypes#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#Boolean#0;n#!!block;n#datatypes#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#DataType#0;n#!!block;n#datatypes#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#Date#0;n#!!block;n#datatypes#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#DateTime#0;n#!!block;n#datatypes#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#Float#0;n#!!block;n#datatypes#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#properties#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#types#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>desc</find>
+      <find>claim</find>
+      <find>P646</find>
+      <find>iran</find>
+      <find>&quot;AcceptAction&quot;</find>
+      <find>&quot;AllocateAction&quot;</find>
+      <find>: &quot;object&quot;</find>
+      <find>use</find>
+      <find>&quot;use&quot;</find>
+      <find>communicate</find>
+      <find>chunk</find>
+      <find>sessions</find>
+      <find>synse</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/wikidata-keys.json" />
+        <option value="$PROJECT_DIR$/../../Project.data.conversational_data_labling/06/Action.json" />
+        <option value="$PROJECT_DIR$/../../../Project.Conversational/3.0/NLU-API.py" />
+        <option value="$PROJECT_DIR$/../../../Project.Conversational/3.0/Long-term Memory/Procedural Memory/actionlist_modify.py" />
+        <option value="$PROJECT_DIR$/../../../Project.Conversational/3.0/Long-term Memory/Procedural Memory/Action_list.json" />
+        <option value="$PROJECT_DIR$/../../../Project.Conversational/3.0/Long-term Memory/Procedural Memory/Verb_list.json" />
+        <option value="$PROJECT_DIR$/wikidata-keys2.json" />
+        <option value="$PROJECT_DIR$/../../../../../USC/Naders Documents/Personal Description/Tests/Hipmunk.py" />
+        <option value="$PROJECT_DIR$/import-wikidata-keys.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="569" />
+    <option name="y" value="37" />
+    <option name="width" value="1440" />
+    <option name="height" value="1368" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wikidata" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wikidata" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Project.Conversational/dana" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="wikidata" sdk-home="C:\Users\naderkhan\AppData\Local\Programs\Python\Python36\python.exe">
+        <option name="mySdkHome" value="C:\Users\naderkhan\AppData\Local\Programs\Python\Python36\python.exe" />
+        <option name="myModuleName" value="wikidata" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\naderkhan\Desktop\Projects\General AI\Project.Conversational\3.0\Long-term Memory\Procedural Memory" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Hipmunk">
+    <configuration default="false" name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="wikidata" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="import-wikidata-keys" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="wikidata" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/import-wikidata-keys.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="NLU-API" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../Project.Conversational/3.0" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="wikidata" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../Project.Conversational/3.0/NLU-API.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="actionlist_modify" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../Project.Conversational/3.0/Long-term Memory/Procedural Memory" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="wikidata" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../Project.Conversational/3.0/Long-term Memory/Procedural Memory/actionlist_modify.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Hipmunk" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../../../USC/Naders Documents/Personal Description/Tests" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="wikidata" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../../../USC/Naders Documents/Personal Description/Tests/Hipmunk.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CompoundRunConfigurationType" factoryName="Compound Run Configuration">
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="wikidata" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="wikidata" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="wikidata" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="wikidata" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="wikidata" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="wikidata" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="wikidata" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.test" />
+      <item index="1" class="java.lang.String" itemvalue="Python.import-wikidata-keys" />
+      <item index="2" class="java.lang.String" itemvalue="Python.NLU-API" />
+      <item index="3" class="java.lang.String" itemvalue="Python.actionlist_modify" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Hipmunk" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.Hipmunk" />
+        <item index="1" class="java.lang.String" itemvalue="Python.actionlist_modify" />
+        <item index="2" class="java.lang.String" itemvalue="Python.import-wikidata-keys" />
+        <item index="3" class="java.lang.String" itemvalue="Python.NLU-API" />
+        <item index="4" class="java.lang.String" itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8c16e4b-3991-455a-a6c5-a3da84b51edd" name="Default" comment="" />
+      <created>1497636513958</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1497636513958</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="569" y="37" width="1440" height="1368" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33616298" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33616298" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../Project.data.conversational_data_labling/06/semantic_learning02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7938">
+          <caret line="677" column="40" lean-forward="false" selection-start-line="677" selection-start-column="35" selection-end-line="677" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+            <element signature="e#7675#11824#0" expanded="false" />
+            <element signature="e#7709#7803#0" expanded="false" />
+            <element signature="e#7881#10167#0" expanded="false" />
+            <element signature="e#10204#10510#0" expanded="false" />
+            <element signature="e#10588#10782#0" expanded="false" />
+            <element signature="e#10816#10950#0" expanded="false" />
+            <element signature="e#10993#11317#0" expanded="false" />
+            <element signature="e#11372#11698#0" expanded="false" />
+            <element signature="e#11738#11824#0" expanded="false" />
+            <element signature="e#11854#21744#0" expanded="false" />
+            <element signature="e#21917#22220#0" expanded="false" />
+            <element signature="e#22268#23671#0" expanded="false" />
+            <element signature="e#23721#23822#0" expanded="false" />
+            <element signature="e#23848#25042#0" expanded="false" />
+            <element signature="e#25071#25096#0" expanded="false" />
+            <element signature="e#25129#25546#0" expanded="false" />
+            <element signature="e#25569#26061#0" expanded="false" />
+            <element signature="e#31370#34174#0" expanded="false" />
+            <element signature="e#34218#36284#0" expanded="false" />
+            <element signature="e#42371#42753#0" expanded="false" />
+            <element signature="e#42793#43104#0" expanded="false" />
+            <element signature="e#43152#43649#0" expanded="false" />
+            <element signature="e#43688#46254#0" expanded="false" />
+            <element signature="e#46296#47309#0" expanded="false" />
+            <element signature="e#47351#49036#0" expanded="false" />
+            <element signature="e#49076#51269#0" expanded="false" />
+            <element signature="e#51318#53476#0" expanded="false" />
+            <element signature="e#53509#54671#0" expanded="false" />
+            <element signature="e#54703#57158#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/import-wikidata-keys.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Project.Conversational/3.0/NLU-API.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#37#55#0" expanded="true" />
+            <element signature="e#1228#3137#0" expanded="false" />
+            <element signature="e#3244#4456#0" expanded="false" />
+            <element signature="e#4472#4931#0" expanded="false" />
+            <element signature="e#4982#5758#0" expanded="false" />
+            <element signature="e#6349#6421#0" expanded="false" />
+            <element signature="e#6455#6533#0" expanded="false" />
+            <element signature="e#8323#9366#0" expanded="false" />
+            <element signature="e#9423#10145#0" expanded="false" />
+            <element signature="e#10337#12726#0" expanded="false" />
+            <element signature="e#13952#16317#0" expanded="false" />
+            <element signature="e#16367#18453#0" expanded="false" />
+            <element signature="e#18502#18727#0" expanded="false" />
+            <element signature="e#18779#18961#0" expanded="false" />
+            <element signature="e#19011#19278#0" expanded="false" />
+            <element signature="e#19326#19517#0" expanded="false" />
+            <element signature="e#19566#19737#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Project.Conversational/3.0/Long-term Memory/Procedural Memory/actionlist_modify.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="26" column="25" lean-forward="false" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Project.Conversational/3.0/Long-term Memory/Procedural Memory/Verb_list.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="204780" lean-forward="false" selection-start-line="0" selection-start-column="204780" selection-end-line="0" selection-end-column="204780" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Project.Conversational/3.0/Long-term Memory/Procedural Memory/Action_list.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="192109" lean-forward="false" selection-start-line="0" selection-start-column="192098" selection-end-line="0" selection-end-column="192109" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Project.Conversational/3.0/Long-term Memory/Procedural Memory/Action.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1269">
+          <caret line="367" column="0" lean-forward="false" selection-start-line="367" selection-start-column="0" selection-end-line="368" selection-end-column="0" />
+          <folding>
+            <element signature="e#264#1381#0" expanded="false" />
+            <element signature="e#582#1375#0" expanded="false" />
+            <element signature="e#1649#2302#0" expanded="false" />
+            <element signature="e#2310#2592#0" expanded="false" />
+            <element signature="e#2915#3196#0" expanded="false" />
+            <element signature="e#3206#3492#0" expanded="false" />
+            <element signature="e#3502#3861#0" expanded="false" />
+            <element signature="e#3871#4153#0" expanded="false" />
+            <element signature="e#4163#4513#0" expanded="false" />
+            <element signature="e#4523#4811#0" expanded="false" />
+            <element signature="e#4836#5116#0" expanded="false" />
+            <element signature="e#5135#7701#0" expanded="false" />
+            <element signature="e#7707#9137#0" expanded="false" />
+            <element signature="e#9143#11131#0" expanded="false" />
+            <element signature="e#11137#12448#0" expanded="false" />
+            <element signature="e#12723#13038#0" expanded="false" />
+            <element signature="e#13426#13776#0" expanded="false" />
+            <element signature="e#13786#14163#0" expanded="false" />
+            <element signature="e#14173#14527#0" expanded="false" />
+            <element signature="e#14537#14811#0" expanded="false" />
+            <element signature="e#15167#15491#0" expanded="false" />
+            <element signature="e#15503#15817#0" expanded="false" />
+            <element signature="e#15848#16143#0" expanded="false" />
+            <element signature="e#16153#16446#0" expanded="false" />
+            <element signature="e#16456#16755#0" expanded="false" />
+            <element signature="e#16780#17121#0" expanded="false" />
+            <element signature="e#17129#17404#0" expanded="false" />
+            <element signature="e#17412#17692#0" expanded="false" />
+            <element signature="e#17700#17934#0" expanded="false" />
+            <element signature="e#17942#18225#0" expanded="false" />
+            <element signature="e#18233#18578#0" expanded="false" />
+            <element signature="e#18586#18914#0" expanded="false" />
+            <element signature="e#18933#20331#0" expanded="false" />
+            <element signature="e#20937#21270#0" expanded="false" />
+            <element signature="e#21280#21587#0" expanded="false" />
+            <element signature="e#21597#21868#0" expanded="false" />
+            <element signature="e#21878#22210#0" expanded="false" />
+            <element signature="e#22235#22528#0" expanded="false" />
+            <element signature="e#22536#22800#0" expanded="false" />
+            <element signature="e#23126#23422#0" expanded="false" />
+            <element signature="e#23432#23789#0" expanded="false" />
+            <element signature="e#23799#24172#0" expanded="false" />
+            <element signature="e#24208#25095#0" expanded="false" />
+            <element signature="e#25101#25425#0" expanded="false" />
+            <element signature="e#25725#26004#0" expanded="false" />
+            <element signature="e#26012#26317#0" expanded="false" />
+            <element signature="e#26325#26590#0" expanded="false" />
+            <element signature="e#26598#26835#0" expanded="false" />
+            <element signature="e#26843#27135#0" expanded="false" />
+            <element signature="e#27143#27440#0" expanded="false" />
+            <element signature="e#27448#27765#0" expanded="false" />
+            <element signature="e#27773#28055#0" expanded="false" />
+            <element signature="e#28063#28350#0" expanded="false" />
+            <element signature="e#28688#28976#0" expanded="false" />
+            <element signature="e#28984#29228#0" expanded="false" />
+            <element signature="e#29236#29505#0" expanded="false" />
+            <element signature="e#29513#29809#0" expanded="false" />
+            <element signature="e#29817#30093#0" expanded="false" />
+            <element signature="e#31392#33463#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Project.Conversational/3.0/Long-term Memory/Procedural Memory/schema_org.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!block;n#datatypes#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#Boolean#0;n#!!block;n#datatypes#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#DataType#0;n#!!block;n#datatypes#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#Date#0;n#!!block;n#datatypes#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#DateTime#0;n#!!block;n#datatypes#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#Float#0;n#!!block;n#datatypes#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#properties#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#types#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Project.data.conversational_data_labling/06/Schema.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wikidata-keys.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="0" column="80439" lean-forward="false" selection-start-line="0" selection-start-column="80439" selection-end-line="0" selection-end-column="80439" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Project.Conversational/2.0/fb-messenger-bot-master/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1555">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1296">
+          <caret line="51" column="22" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="51" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test0.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2889">
+          <caret line="0" column="17156" lean-forward="false" selection-start-line="0" selection-start-column="17156" selection-end-line="0" selection-end-column="17156" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Project.data.conversational_data_labling/06/Action.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1302">
+          <caret line="144" column="0" lean-forward="false" selection-start-line="144" selection-start-column="0" selection-end-line="144" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Project.data.conversational_data_labling/06/schema_org2.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="944" column="10" lean-forward="true" selection-start-line="944" selection-start-column="10" selection-end-line="944" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Project.data.conversational_data_labling/06/schema_org.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="189" column="23" lean-forward="true" selection-start-line="189" selection-start-column="23" selection-end-line="189" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Project.Conversational/3.0/Long-term Memory/Procedural Memory/schema_org.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!block;n#datatypes#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#Boolean#0;n#!!block;n#datatypes#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#DataType#0;n#!!block;n#datatypes#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#Date#0;n#!!block;n#datatypes#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#DateTime#0;n#!!block;n#datatypes#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#Float#0;n#!!block;n#datatypes#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#properties#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#types#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Project.Conversational/3.0/Long-term Memory/Semantic Memory/schema_org.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9314" column="23" lean-forward="false" selection-start-line="9314" selection-start-column="12" selection-end-line="9314" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Project.Conversational/3.0/Long-term Memory/Semantic Memory/entity_lib11.json">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Project.Conversational/3.0/Long-term Memory/Procedural Memory/Action.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1269">
+          <caret line="367" column="0" lean-forward="false" selection-start-line="367" selection-start-column="0" selection-end-line="368" selection-end-column="0" />
+          <folding>
+            <element signature="e#264#1381#0" expanded="false" />
+            <element signature="e#582#1375#0" expanded="false" />
+            <element signature="e#1649#2302#0" expanded="false" />
+            <element signature="e#2310#2592#0" expanded="false" />
+            <element signature="e#2915#3196#0" expanded="false" />
+            <element signature="e#3206#3492#0" expanded="false" />
+            <element signature="e#3502#3861#0" expanded="false" />
+            <element signature="e#3871#4153#0" expanded="false" />
+            <element signature="e#4163#4513#0" expanded="false" />
+            <element signature="e#4523#4811#0" expanded="false" />
+            <element signature="e#4836#5116#0" expanded="false" />
+            <element signature="e#5135#7701#0" expanded="false" />
+            <element signature="e#7707#9137#0" expanded="false" />
+            <element signature="e#9143#11131#0" expanded="false" />
+            <element signature="e#11137#12448#0" expanded="false" />
+            <element signature="e#12723#13038#0" expanded="false" />
+            <element signature="e#13426#13776#0" expanded="false" />
+            <element signature="e#13786#14163#0" expanded="false" />
+            <element signature="e#14173#14527#0" expanded="false" />
+            <element signature="e#14537#14811#0" expanded="false" />
+            <element signature="e#15167#15491#0" expanded="false" />
+            <element signature="e#15503#15817#0" expanded="false" />
+            <element signature="e#15848#16143#0" expanded="false" />
+            <element signature="e#16153#16446#0" expanded="false" />
+            <element signature="e#16456#16755#0" expanded="false" />
+            <element signature="e#16780#17121#0" expanded="false" />
+            <element signature="e#17129#17404#0" expanded="false" />
+            <element signature="e#17412#17692#0" expanded="false" />
+            <element signature="e#17700#17934#0" expanded="false" />
+            <element signature="e#17942#18225#0" expanded="false" />
+            <element signature="e#18233#18578#0" expanded="false" />
+            <element signature="e#18586#18914#0" expanded="false" />
+            <element signature="e#18933#20331#0" expanded="false" />
+            <element signature="e#20937#21270#0" expanded="false" />
+            <element signature="e#21280#21587#0" expanded="false" />
+            <element signature="e#21597#21868#0" expanded="false" />
+            <element signature="e#21878#22210#0" expanded="false" />
+            <element signature="e#22235#22528#0" expanded="false" />
+            <element signature="e#22536#22800#0" expanded="false" />
+            <element signature="e#23126#23422#0" expanded="false" />
+            <element signature="e#23432#23789#0" expanded="false" />
+            <element signature="e#23799#24172#0" expanded="false" />
+            <element signature="e#24208#25095#0" expanded="false" />
+            <element signature="e#25101#25425#0" expanded="false" />
+            <element signature="e#25725#26004#0" expanded="false" />
+            <element signature="e#26012#26317#0" expanded="false" />
+            <element signature="e#26325#26590#0" expanded="false" />
+            <element signature="e#26598#26835#0" expanded="false" />
+            <element signature="e#26843#27135#0" expanded="false" />
+            <element signature="e#27143#27440#0" expanded="false" />
+            <element signature="e#27448#27765#0" expanded="false" />
+            <element signature="e#27773#28055#0" expanded="false" />
+            <element signature="e#28063#28350#0" expanded="false" />
+            <element signature="e#28688#28976#0" expanded="false" />
+            <element signature="e#28984#29228#0" expanded="false" />
+            <element signature="e#29236#29505#0" expanded="false" />
+            <element signature="e#29513#29809#0" expanded="false" />
+            <element signature="e#29817#30093#0" expanded="false" />
+            <element signature="e#31392#33463#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Project.Conversational/3.0/Long-term Memory/Procedural Memory/Verb_list.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="204780" lean-forward="false" selection-start-line="0" selection-start-column="204780" selection-end-line="0" selection-end-column="204780" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Project.Conversational/3.0/Long-term Memory/Procedural Memory/Action_list.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="192109" lean-forward="false" selection-start-line="0" selection-start-column="192098" selection-end-line="0" selection-end-column="192109" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wikidata-keys2.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../../USC/Naders Documents/Personal Description/Tests/Hipmunk.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1269">
+          <caret line="47" column="64" lean-forward="true" selection-start-line="47" selection-start-column="64" selection-end-line="47" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Project.Conversational/3.0/Long-term Memory/Procedural Memory/TDextraction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="23" column="32" lean-forward="true" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Project.Conversational/3.0/Long-term Memory/Procedural Memory/actionlist_modify.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="26" column="25" lean-forward="false" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Project.data.conversational_data_labling/06/semantic_learning02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7938">
+          <caret line="677" column="40" lean-forward="false" selection-start-line="677" selection-start-column="35" selection-end-line="677" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+            <element signature="e#7675#11824#0" expanded="false" />
+            <element signature="e#7709#7803#0" expanded="false" />
+            <element signature="e#7881#10167#0" expanded="false" />
+            <element signature="e#10204#10510#0" expanded="false" />
+            <element signature="e#10588#10782#0" expanded="false" />
+            <element signature="e#10816#10950#0" expanded="false" />
+            <element signature="e#10993#11317#0" expanded="false" />
+            <element signature="e#11372#11698#0" expanded="false" />
+            <element signature="e#11738#11824#0" expanded="false" />
+            <element signature="e#11854#21744#0" expanded="false" />
+            <element signature="e#21917#22220#0" expanded="false" />
+            <element signature="e#22268#23671#0" expanded="false" />
+            <element signature="e#23721#23822#0" expanded="false" />
+            <element signature="e#23848#25042#0" expanded="false" />
+            <element signature="e#25071#25096#0" expanded="false" />
+            <element signature="e#25129#25546#0" expanded="false" />
+            <element signature="e#25569#26061#0" expanded="false" />
+            <element signature="e#31370#34174#0" expanded="false" />
+            <element signature="e#34218#36284#0" expanded="false" />
+            <element signature="e#42371#42753#0" expanded="false" />
+            <element signature="e#42793#43104#0" expanded="false" />
+            <element signature="e#43152#43649#0" expanded="false" />
+            <element signature="e#43688#46254#0" expanded="false" />
+            <element signature="e#46296#47309#0" expanded="false" />
+            <element signature="e#47351#49036#0" expanded="false" />
+            <element signature="e#49076#51269#0" expanded="false" />
+            <element signature="e#51318#53476#0" expanded="false" />
+            <element signature="e#53509#54671#0" expanded="false" />
+            <element signature="e#54703#57158#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Project.Conversational/3.0/NLU-API.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="545" column="0" lean-forward="false" selection-start-line="545" selection-start-column="0" selection-end-line="545" selection-end-column="0" />
+          <folding>
+            <element signature="e#37#55#0" expanded="true" />
+            <element signature="e#1228#3137#0" expanded="false" />
+            <element signature="e#3244#4456#0" expanded="false" />
+            <element signature="e#4472#4931#0" expanded="false" />
+            <element signature="e#4982#5758#0" expanded="false" />
+            <element signature="e#6349#6421#0" expanded="false" />
+            <element signature="e#6455#6533#0" expanded="false" />
+            <element signature="e#8323#9366#0" expanded="false" />
+            <element signature="e#9423#10145#0" expanded="false" />
+            <element signature="e#10337#12726#0" expanded="false" />
+            <element signature="e#13952#16317#0" expanded="false" />
+            <element signature="e#16367#18453#0" expanded="false" />
+            <element signature="e#18502#18727#0" expanded="false" />
+            <element signature="e#18779#18961#0" expanded="false" />
+            <element signature="e#19011#19278#0" expanded="false" />
+            <element signature="e#19326#19517#0" expanded="false" />
+            <element signature="e#19566#19737#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/import-wikidata-keys.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

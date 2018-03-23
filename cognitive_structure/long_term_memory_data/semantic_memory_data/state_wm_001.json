@@ -1,0 +1,920 @@
+{
+	"OBJ": [],
+	"S-A": [
+		[
+			{
+				"phrases": [
+					{
+						"type": "NP",
+						"words": [
+							"Frogs"
+						],
+						"structure": "NNS",
+						"class": "O"
+					},
+					{
+						"type": "VP",
+						"words": [
+							"are"
+						],
+						"structure": "VBP",
+						"class": "O"
+					},
+					{
+						"type": "NP",
+						"words": [
+							"small",
+							"animals"
+						],
+						"structure": "JJ+NNS",
+						"class": "O"
+					},
+					{
+						"type": "NP",
+						"words": [
+							"that"
+						],
+						"structure": "WDT",
+						"class": "O"
+					},
+					{
+						"type": "VP",
+						"words": [
+							"can",
+							"live"
+						],
+						"structure": "MD+VB",
+						"class": "O"
+					},
+					{
+						"type": "PP",
+						"words": [
+							"on"
+						],
+						"structure": "IN",
+						"class": "O"
+					},
+					{
+						"type": "NP",
+						"words": [
+							"land"
+						],
+						"structure": "NN",
+						"class": "O"
+					},
+					{
+						"type": "PP",
+						"words": [
+							"and"
+						],
+						"structure": "CC",
+						"class": "O"
+					},
+					{
+						"type": "PP",
+						"words": [
+							"in"
+						],
+						"structure": "IN",
+						"class": "O"
+					},
+					{
+						"type": "NP",
+						"words": [
+							"water"
+						],
+						"structure": "NN",
+						"class": "O"
+					}
+				],
+				"topics": [
+					"frog"
+				],
+				"source": "freekidsbooks",
+				"structure": "NP+VP+NP+NP+VP+PP+NP+PP+PP+NP",
+				"sentence": "Frogs are small animals that can live on land and in water."
+			},
+			{
+				"phrases": [
+					{
+						"type": "NP",
+						"words": [
+							"Frogs"
+						],
+						"structure": "NNS",
+						"class": "O"
+					},
+					{
+						"type": "VP",
+						"words": [
+							"lay"
+						],
+						"structure": "VBD",
+						"class": "O"
+					},
+					{
+						"type": "NP",
+						"words": [
+							"lots"
+						],
+						"structure": "NNS",
+						"class": "O"
+					},
+					{
+						"type": "PP",
+						"words": [
+							"of"
+						],
+						"structure": "IN",
+						"class": "O"
+					},
+					{
+						"type": "NP",
+						"words": [
+							"eggs"
+						],
+						"structure": "NNS",
+						"class": "O"
+					},
+					{
+						"type": "PP",
+						"words": [
+							"in"
+						],
+						"structure": "IN",
+						"class": "O"
+					},
+					{
+						"type": "NP",
+						"words": [
+							"the",
+							"water"
+						],
+						"structure": "DT+NN",
+						"class": "O"
+					},
+					{
+						"type": "NP",
+						"words": [
+							"that"
+						],
+						"structure": "WDT",
+						"class": "O"
+					},
+					{
+						"type": "VP",
+						"words": [
+							"hatch"
+						],
+						"structure": "VBP",
+						"class": "O"
+					},
+					{
+						"type": "PP",
+						"words": [
+							"into"
+						],
+						"structure": "IN",
+						"class": "O"
+					},
+					{
+						"type": "NP",
+						"words": [
+							"tadpoles"
+						],
+						"structure": "NNS",
+						"class": "O"
+					}
+				],
+				"topics": [
+					"frog"
+				],
+				"source": "freekidsbooks",
+				"structure": "NP+VP+NP+PP+NP+PP+NP+NP+VP+PP+NP",
+				"sentence": "Frogs lay lots of eggs in the water that hatch into tadpoles."
+			},
+			{
+				"phrases": [
+					{
+						"type": "NP",
+						"words": [
+							"Tadpoles"
+						],
+						"structure": "NNS",
+						"class": "O"
+					},
+					{
+						"type": "VP",
+						"words": [
+							"look"
+						],
+						"structure": "VBP",
+						"class": "O"
+					},
+					{
+						"type": "PP",
+						"words": [
+							"like"
+						],
+						"structure": "IN",
+						"class": "O"
+					},
+					{
+						"type": "NP",
+						"words": [
+							"little",
+							"fish"
+						],
+						"structure": "JJ+NN",
+						"class": "O"
+					}
+				],
+				"topics": [
+					"frog"
+				],
+				"source": "freekidsbooks",
+				"structure": "NP+VP+PP+NP",
+				"sentence": "Tadpoles look like little fish."
+			},
+			{
+				"phrases": [
+					{
+						"type": "PP",
+						"words": [
+							"After"
+						],
+						"structure": "IN",
+						"class": "O"
+					},
+					{
+						"type": "NP",
+						"words": [
+							"a",
+							"few",
+							"weeks"
+						],
+						"structure": "DT+JJ+NNS",
+						"class": "O"
+					},
+					{
+						"type": "NP",
+						"words": [
+							"the",
+							"tadpole"
+						],
+						"structure": "DT+NN",
+						"class": "O"
+					},
+					{
+						"type": "VP",
+						"words": [
+							"starts",
+							"to",
+							"grow"
+						],
+						"structure": "VBZ+TO+VB",
+						"class": "O"
+					},
+					{
+						"type": "NP",
+						"words": [
+							"arms",
+							"and",
+							"legs"
+						],
+						"structure": "NNS+CC+NNS",
+						"class": "O"
+					}
+				],
+				"topics": [
+					"frog"
+				],
+				"source": "freekidsbooks",
+				"structure": "PP+NP+NP+VP+NP",
+				"sentence": "After a few weeks, the tadpole starts to grow arms and legs."
+			},
+			{
+				"phrases": [
+					{
+						"type": "NP",
+						"words": [
+							"The",
+							"back",
+							"legs"
+						],
+						"structure": "DT+JJ+NNS",
+						"class": "O"
+					},
+					{
+						"type": "VP",
+						"words": [
+							"grow"
+						],
+						"structure": "VBP",
+						"class": "O"
+					},
+					{
+						"type": "ADJP",
+						"words": [
+							"bigger"
+						],
+						"structure": "JJR",
+						"class": "O"
+					},
+					{
+						"type": "NP",
+						"words": [
+							"the",
+							"tail"
+						],
+						"structure": "DT+NN",
+						"class": "O"
+					},
+					{
+						"type": "VP",
+						"words": [
+							"gets"
+						],
+						"structure": "VBZ",
+						"class": "O"
+					},
+					{
+						"type": "ADJP",
+						"words": [
+							"smaller"
+						],
+						"structure": "JJR",
+						"class": "O"
+					},
+					{
+						"type": "SBAR",
+						"words": [
+							"until"
+						],
+						"structure": "IN",
+						"class": "O"
+					},
+					{
+						"type": "NP",
+						"words": [
+							"the",
+							"frog"
+						],
+						"structure": "DT+NN",
+						"class": "O"
+					},
+					{
+						"type": "VP",
+						"words": [
+							"is",
+							"fully",
+							"grown"
+						],
+						"structure": "VBZ+RB+VBN",
+						"class": "O"
+					}
+				],
+				"topics": [
+					"frog"
+				],
+				"source": "freekidsbooks",
+				"structure": "NP+VP+ADJP+NP+VP+ADJP+SBAR+NP+VP",
+				"sentence": "The back legs grow bigger and the tail gets smaller until the frog is fully grown."
+			},
+			{
+				"phrases": [
+					{
+						"type": "NP",
+						"words": [
+							"Frogs"
+						],
+						"structure": "NNS",
+						"class": "O"
+					},
+					{
+						"type": "VP",
+						"words": [
+							"use"
+						],
+						"structure": "VBP",
+						"class": "O"
+					},
+					{
+						"type": "NP",
+						"words": [
+							"their",
+							"long",
+							"sticky",
+							"tongues"
+						],
+						"structure": "PRP$+JJ+JJ+NNS",
+						"class": "O"
+					},
+					{
+						"type": "VP",
+						"words": [
+							"to",
+							"catch"
+						],
+						"structure": "TO+VB",
+						"class": "O"
+					},
+					{
+						"type": "NP",
+						"words": [
+							"food"
+						],
+						"structure": "NN",
+						"class": "O"
+					}
+				],
+				"topics": [
+					"frog"
+				],
+				"source": "freekidsbooks",
+				"structure": "NP+VP+NP+VP+NP",
+				"sentence": "Frogs use their long sticky tongues to catch food."
+			},
+			{
+				"phrases": [
+					{
+						"type": "NP",
+						"words": [
+							"Frogs"
+						],
+						"structure": "NNS",
+						"class": "O"
+					},
+					{
+						"type": "VP",
+						"words": [
+							"like",
+							"to",
+							"eat"
+						],
+						"structure": "VBP+TO+VB",
+						"class": "O"
+					},
+					{
+						"type": "NP",
+						"words": [
+							"insects"
+						],
+						"structure": "NNS",
+						"class": "O"
+					},
+					{
+						"type": "NP",
+						"words": [
+							"some",
+							"frogs"
+						],
+						"structure": "DT+NNS",
+						"class": "O"
+					},
+					{
+						"type": "VP",
+						"words": [
+							"eat"
+						],
+						"structure": "VBP",
+						"class": "O"
+					},
+					{
+						"type": "NP",
+						"words": [
+							"other",
+							"frogs"
+						],
+						"structure": "JJ+NNS",
+						"class": "O"
+					}
+				],
+				"topics": [
+					"frog"
+				],
+				"source": "freekidsbooks",
+				"structure": "NP+VP+NP+NP+VP+NP",
+				"sentence": "Frogs like to eat insects, but some frogs eat other frogs!"
+			},
+			{
+				"phrases": [
+					{
+						"type": "NP",
+						"words": [
+							"Frogs"
+						],
+						"structure": "NNS",
+						"class": "O"
+					},
+					{
+						"type": "VP",
+						"words": [
+							"call"
+						],
+						"structure": "VBP",
+						"class": "O"
+					},
+					{
+						"type": "PP",
+						"words": [
+							"to"
+						],
+						"structure": "TO",
+						"class": "O"
+					},
+					{
+						"type": "NP",
+						"words": [
+							"each",
+							"other"
+						],
+						"structure": "DT+JJ",
+						"class": "O"
+					},
+					{
+						"type": "PP",
+						"words": [
+							"by"
+						],
+						"structure": "IN",
+						"class": "O"
+					},
+					{
+						"type": "VP",
+						"words": [
+							"croaking"
+						],
+						"structure": "VBG",
+						"class": "O"
+					}
+				],
+				"topics": [
+					"frog"
+				],
+				"source": "freekidsbooks",
+				"structure": "NP+VP+PP+NP+PP+VP",
+				"sentence": "Frogs call to each other by croaking."
+			},
+			{
+				"phrases": [
+					{
+						"type": "NP",
+						"words": [
+							"Each",
+							"kind"
+						],
+						"structure": "DT+NN",
+						"class": "O"
+					},
+					{
+						"type": "PP",
+						"words": [
+							"of"
+						],
+						"structure": "IN",
+						"class": "O"
+					},
+					{
+						"type": "NP",
+						"words": [
+							"frog"
+						],
+						"structure": "NN",
+						"class": "O"
+					},
+					{
+						"type": "VP",
+						"words": [
+							"has"
+						],
+						"structure": "VBZ",
+						"class": "O"
+					},
+					{
+						"type": "NP",
+						"words": [
+							"a",
+							"different",
+							"croaking",
+							"sound"
+						],
+						"structure": "DT+JJ+NN+NN",
+						"class": "O"
+					}
+				],
+				"topics": [
+					"frog"
+				],
+				"source": "freekidsbooks",
+				"structure": "NP+PP+NP+VP+NP",
+				"sentence": "Each kind of frog has a different croaking sound."
+			},
+			{
+				"phrases": [
+					{
+						"type": "NP",
+						"words": [
+							"Frogs"
+						],
+						"structure": "NNS",
+						"class": "O"
+					},
+					{
+						"type": "VP",
+						"words": [
+							"are"
+						],
+						"structure": "VBP",
+						"class": "O"
+					},
+					{
+						"type": "NP",
+						"words": [
+							"good",
+							"jumpers"
+						],
+						"structure": "JJ+NNS",
+						"class": "O"
+					},
+					{
+						"type": "PP",
+						"words": [
+							"because",
+							"of"
+						],
+						"structure": "IN+IN",
+						"class": "O"
+					},
+					{
+						"type": "NP",
+						"words": [
+							"their",
+							"strong",
+							"back",
+							"legs"
+						],
+						"structure": "PRP$+JJ+JJ+NNS",
+						"class": "O"
+					}
+				],
+				"topics": [
+					"frog"
+				],
+				"source": "freekidsbooks",
+				"structure": "NP+VP+NP+PP+NP",
+				"sentence": "Frogs are good jumpers because of their strong back legs."
+			},
+			{
+				"phrases": [
+					{
+						"type": "NP",
+						"words": [
+							"Frogs"
+						],
+						"structure": "NNS",
+						"class": "O"
+					},
+					{
+						"type": "VP",
+						"words": [
+							"come"
+						],
+						"structure": "VBP",
+						"class": "O"
+					},
+					{
+						"type": "PP",
+						"words": [
+							"in"
+						],
+						"structure": "IN",
+						"class": "O"
+					},
+					{
+						"type": "NP",
+						"words": [
+							"lots"
+						],
+						"structure": "NNS",
+						"class": "O"
+					},
+					{
+						"type": "PP",
+						"words": [
+							"of"
+						],
+						"structure": "IN",
+						"class": "O"
+					},
+					{
+						"type": "NP",
+						"words": [
+							"different",
+							"colors"
+						],
+						"structure": "JJ+NNS",
+						"class": "O"
+					}
+				],
+				"topics": [
+					"frog"
+				],
+				"source": "freekidsbooks",
+				"structure": "NP+VP+PP+NP+PP+NP",
+				"sentence": "Frogs come in lots of different colors."
+			},
+			{
+				"phrases": [
+					{
+						"type": "NP",
+						"words": [
+							"Some",
+							"frogs"
+						],
+						"structure": "DT+NNS",
+						"class": "O"
+					},
+					{
+						"type": "VP",
+						"words": [
+							"use"
+						],
+						"structure": "VBP",
+						"class": "O"
+					},
+					{
+						"type": "NP",
+						"words": [
+							"their",
+							"colors"
+						],
+						"structure": "PRP$+NNS",
+						"class": "O"
+					},
+					{
+						"type": "VP",
+						"words": [
+							"to",
+							"hide"
+						],
+						"structure": "TO+VB",
+						"class": "O"
+					}
+				],
+				"topics": [
+					"frog"
+				],
+				"source": "freekidsbooks",
+				"structure": "NP+VP+NP+VP",
+				"sentence": "Some frogs use their colors to hide."
+			},
+			{
+				"phrases": [
+					{
+						"type": "NP",
+						"words": [
+							"you"
+						],
+						"structure": "PRP",
+						"class": "O"
+					},
+					{
+						"type": "VP",
+						"words": [
+							"find"
+						],
+						"structure": "VB",
+						"class": "O"
+					},
+					{
+						"type": "NP",
+						"words": [
+							"a",
+							"frog"
+						],
+						"structure": "DT+NN",
+						"class": "O"
+					},
+					{
+						"type": "PP",
+						"words": [
+							"in"
+						],
+						"structure": "IN",
+						"class": "O"
+					},
+					{
+						"type": "NP",
+						"words": [
+							"this",
+							"picture"
+						],
+						"structure": "DT+NN",
+						"class": "O"
+					}
+				],
+				"topics": [
+					"frog"
+				],
+				"source": "freekidsbooks",
+				"structure": "NP+VP+NP+PP+NP",
+				"sentence": "Can you find a frog in this picture?"
+			},
+			{
+				"phrases": [
+					{
+						"type": "NP",
+						"words": [
+							"The",
+							"next",
+							"time"
+						],
+						"structure": "DT+JJ+NN",
+						"class": "O"
+					},
+					{
+						"type": "NP",
+						"words": [
+							"you"
+						],
+						"structure": "PRP",
+						"class": "O"
+					},
+					{
+						"type": "VP",
+						"words": [
+							"go"
+						],
+						"structure": "VBP",
+						"class": "O"
+					},
+					{
+						"type": "ADVP",
+						"words": [
+							"outside"
+						],
+						"structure": "RB",
+						"class": "O"
+					},
+					{
+						"type": "VP",
+						"words": [
+							"see"
+						],
+						"structure": "VBP",
+						"class": "O"
+					},
+					{
+						"type": "NP",
+						"words": [
+							"what",
+							"kinds"
+						],
+						"structure": "WP+NNS",
+						"class": "O"
+					},
+					{
+						"type": "PP",
+						"words": [
+							"of"
+						],
+						"structure": "IN",
+						"class": "O"
+					},
+					{
+						"type": "NP",
+						"words": [
+							"frogs"
+						],
+						"structure": "NNS",
+						"class": "O"
+					},
+					{
+						"type": "NP",
+						"words": [
+							"you"
+						],
+						"structure": "PRP",
+						"class": "O"
+					},
+					{
+						"type": "VP",
+						"words": [
+							"can",
+							"find"
+						],
+						"structure": "MD+VB",
+						"class": "O"
+					}
+				],
+				"topics": [
+					"frog"
+				],
+				"source": "freekidsbooks",
+				"structure": "NP+NP+VP+ADVP+VP+NP+PP+NP+NP+VP",
+				"sentence": "The next time you go outside, see what kinds of frogs you can find!"
+			}
+		]
+	]
+}
